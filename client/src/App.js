@@ -1,11 +1,11 @@
-import './App.css';
+ import './App.css';
 import Post from "./post.js";
 
 function App() {
   return (
     <main>
       <header>
-        <a href="#"className="">Myblog</a>
+        <a href="#"className="logo">Myblog</a>
         <nav>
           <a href="#">Login</a>
           <a href="#">Register</a>
