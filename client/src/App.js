@@ -1,4 +1,4 @@
- import './App.css';
+import './App.css';
 import Post from "./post.js";
 import Header from "./header.js";
 
